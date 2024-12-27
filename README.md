@@ -1,8 +1,4 @@
-# 🌐 Services We Provide @ [Webvise.io](https://webvise.io)
-
-🚀 **Transforming ideas into scalable, market-ready solutions.** Here’s what we bring to the table:
-
-## 🛠️ Core Services
+# 🌐 Services we provide @ [webvise](https://webvise.io)
 
 ### 1. **Web Development**
 - Modern, performant, and scalable web applications.
@@ -24,20 +20,6 @@
 - Agile sprints to test your concept in the real world.
 - Start lean, iterate fast, and conquer your niche.
 
----
 
-## 💻 Tech Stack
 
-> **The tools we love, the magic we make.**
-
-- **Frontend**: Next.js, React, TypeScript, Tailwind CSS
-- **Backend**: Node.js, Express, NestJS
-- **Mobile**: Flutter, React Native
-- **Database**: PostgreSQL, MongoDB, Firebase
-- **Cloud**: AWS, Vercel, Heroku, DigitalOcean
-- **AI/ML**: TensorFlow, OpenAI API, Python
-- **DevOps**: Docker, Kubernetes, CI/CD Pipelines
-
----
-
-✨ **Let’s build something amazing.** Check us out at [Webvise.io](https://webvise.io). 💡
+✨ **Let’s build something amazing.** Check us out at [webvise.io](https://webvise.io). 💡
