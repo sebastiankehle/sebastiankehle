@@ -1,4 +1,4 @@
-# 🌐 Services we provide @ [webvise](https://webvise.io)
+# Services we provide @ [webvise](https://webvise.io)
 
 ### 1. **Web Development**
 - Modern, performant, and scalable web applications.
@@ -22,4 +22,4 @@
 
 
 
-✨ **Let’s build something amazing.** Check us out at [webvise.io](https://webvise.io). 💡
+ **Let’s build something amazing.** Check us out at [webvise.io](https://webvise.io). 
