@@ -1,25 +1,22 @@
-# Launch your MVP in weeks, not months @ [webvise](https://webvise.io)
+# webvise
 
-### 1. **Web Development**
-- Modern, performant, and scalable web applications.
-- Built with **Next.js**, **React**, and **TypeScript**.
-- Optimized for lightning-fast loading and seamless UX.
+**Design. Develop. Automate.**  
+We build digital brands, scalable apps, and intelligent workflows — **launched fast, built to last**.  
 
-### 2. **Mobile Development**
-- Native-like apps powered by **Flutter**.
-- One codebase, two platforms: **iOS** & **Android**.
-- Smooth, responsive, and built to engage.
+---
 
-### 3. **AI Integration**
-- Adding intelligence to your products with ease.
-- From **chatbots** to **predictive analytics**, we make AI work for you.
-- Unlock the power of data with practical AI solutions.
+## 🚀 What We Do
+- **Branding & Design** — Identity, UI/UX, design systems, motion. *(from €5k)*  
+- **Full-Stack Development** — MVPs, SaaS, mobile apps, CMS, integrations. *(from €10k)*  
+- **Automation & AI** — Workflows, AI assistants, RAG, monitoring. *(from €7.5k)*  
 
-### 4. **Rapid MVP Development**
-- Got an idea? Let’s turn it into a Minimum Viable Product in record time.
-- Agile sprints to test your concept in the real world.
-- Start lean, iterate fast, and conquer your niche.
+---
 
+## ⚡ Why Choose Us
+- **Fast Launch** — Weeks, not months.  
+- **Built to Scale** — Growth-ready, no tech debt.  
+- **Conversion First** — Always tied to measurable outcomes.  
 
+---
 
- **Let’s build something amazing.** Check us out at [webvise.io](https://webvise.io). 
+👉 Let’s build something amazing: [webvise.io](https://webvise.io)
