@@ -1,6 +1,6 @@
 # webvise
 
-We build digital brands, scalable apps, and intelligent workflows — **launched fast, built to last**.  
+We build digital brands, scalable apps, and intelligent workflows.
 
 ---
 
