@@ -1,6 +1,5 @@
 # webvise
 
-**Design. Develop. Automate.**  
 We build digital brands, scalable apps, and intelligent workflows — **launched fast, built to last**.  
 
 ---
