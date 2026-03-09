@@ -23,13 +23,4 @@ We design, build, and automate digital products.
 
 ---
 
-## Tech Stack
-
-**Frontend:** Next.js · React · TypeScript · Tailwind CSS · shadcn/ui · Motion  
-**Backend:** Node.js · Bun · Hono · tRPC · Drizzle · PostgreSQL · Redis  
-**AI:** OpenAI · Anthropic · Gemini · Vercel AI SDK · Mastra · n8n  
-**Infra:** Vercel · Docker · Turborepo · Sentry · PostHog  
-
----
-
 👉 Let's build something great: [webvise.io](https://webvise.io)
