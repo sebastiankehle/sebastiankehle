@@ -1,29 +1,53 @@
-# webvise
+# Sebastian Kehle
 
-We design, build, and automate digital products. Design, engineering, and AI — shipped in weeks, built to scale.
+Creative Developer based near Berlin.
+Founder of [webvise.io](https://webvise.io) and AI Engineer at luca.
 
----
+I work at the intersection of design, full-stack development, and AI automation. My background started in visual communication and agency work, moved through startup leadership and product building, and now sits mostly in applied AI, custom web applications, and workflow software.
 
-## What We Do
-
-- **Landing Pages** — High-converting pages built for speed and SEO. 
-- **WordPress → Next.js** — Full migration with 90+ PageSpeed guarantee and SEO redirects. 
-- **AI Consulting** — Readiness assessments, use case prioritization, and implementation roadmaps. 
-- **MVP Development** — Validate ideas with real users before committing to full builds. 
-- **AI & Automation** — Custom agents, RAG systems, and workflow automation. 
-- **Full-Stack Applications** — Production-grade SaaS and web apps with auth, payments, and monitoring. 
+At webvise I design and build digital products directly with clients: fast websites, internal tools, MVPs, AI-assisted workflows, and production-ready web applications.
 
 ---
 
-## Why Choose Us
+## What I build
 
-- **Launch in Weeks** — From concept to production in 2–4 weeks, not months.
-- **Built to Scale** — Type-safe, production-grade architecture from day one.
-- **Performance First** — Sub-second load times, mobile-first design, SEO included in every build.
-- **Flat-Rate Pricing** — Transparent project pricing, no hourly billing, ongoing support included.
-- **Full Ownership** — You get the source code. No lock-in.
+- **Custom workflow software**
+  Internal tools, dashboards, portals, and business applications for teams that have outgrown spreadsheets, plugins, and manual handoffs.
+
+- **AI-assisted workflows**
+  Practical automation around documents, lead research, support triage, reporting, content operations, and internal processes.
+
+- **Full-stack web applications**
+  Production-ready apps with authentication, databases, APIs, integrations, monitoring, and deployment.
+
+- **MVPs and prototypes**
+  Focused first versions that test one real product question before the scope grows.
+
+- **Fast websites and migrations**
+  Landing pages, business websites, and WordPress-to-Next.js migrations built for performance, SEO, and maintainability.
 
 ---
 
+## How I work
 
-Let's build something great: [webvise.io](https://webvise.io)
+I like small loops, direct communication, and shipping things that people can actually use.
+
+Clients work directly with me, the person designing, building, and shipping the system. No account-manager layer, no junior handoff, no bloated agency process.
+
+AI is part of my workflow, but not the strategy. The important decisions still need taste, product judgment, technical experience, and a clear understanding of the business problem.
+
+---
+
+## webvise
+
+[webvise](https://webvise.io) is my senior-led AI-native software studio.
+
+We build custom workflow systems, internal tools, AI automation, MVPs, and production-ready web applications for businesses that need useful software without traditional agency overhead.
+
+---
+
+## Elsewhere
+
+- Website: [sebastiankehle.com](https://sebastiankehle.com)
+- Studio: [webvise.io](https://webvise.io)
+- GitHub: [github.com/sebastiankehle](https://github.com/sebastiankehle)
