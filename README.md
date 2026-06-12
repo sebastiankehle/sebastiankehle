@@ -40,7 +40,7 @@ AI is part of my workflow, but not the strategy. The important decisions still n
 
 ## webvise
 
-[webvise](https://webvise.io) is my senior-led AI-native software studio.
+[webvise](https://webvise.io) is my software studio.
 
 I build custom software and AI workflows for businesses that need useful systems without traditional agency overhead. Services are organized around three paths:
 
