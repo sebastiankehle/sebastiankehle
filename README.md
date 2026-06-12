@@ -1,38 +1,38 @@
 # Sebastian Kehle
 
-Creative Developer based near Berlin.
+Senior Product Engineer and Creative Developer based near Berlin.  
 Founder of [webvise.io](https://webvise.io) and AI Engineer at luca.
 
-I work at the intersection of design, full-stack development, and AI automation. My background started in visual communication and agency work, moved through startup leadership and product building, and now sits mostly in applied AI, custom web applications, and workflow software.
+I work at the intersection of design, full-stack development, and applied AI. My background started in visual communication and agency work, moved through startup leadership and product building, and now focuses on production AI engineering, custom workflow software, and web applications people use in real operations.
 
-At webvise I design and build digital products directly with clients: fast websites, internal tools, MVPs, AI-assisted workflows, and production-ready web applications.
+At webvise I design and build custom software directly with clients: internal tools, dashboards, portals, booking systems, MVPs, website workflow layers, AI-assisted workflows, and production-ready business applications.
 
 ---
 
 ## What I build
 
-- **Custom workflow software**
-  Internal tools, dashboards, portals, and business applications for teams that have outgrown spreadsheets, plugins, and manual handoffs.
+- **Custom workflow software**  
+  Internal tools, dashboards, portals, admin systems, and business applications for teams that have outgrown spreadsheets, plugins, and manual handoffs.
 
-- **AI-assisted workflows**
-  Practical automation around documents, lead research, support triage, reporting, content operations, and internal processes.
+- **AI workflows with review gates**  
+  Practical AI systems for document processing, lead research, support triage, reporting, content operations, company knowledge, and internal handoffs.
 
-- **Full-stack web applications**
-  Production-ready apps with authentication, databases, APIs, integrations, monitoring, and deployment.
+- **Company brain and memory systems**  
+  Knowledge systems that make documents, decisions, project context, and operating rules reusable for teams and AI agents.
 
-- **MVPs and prototypes**
-  Focused first versions that test one real product question before the scope grows.
+- **Full-stack business applications**  
+  Production-ready apps with authentication, roles, databases, APIs, integrations, monitoring, deployment, and handoff.
 
-- **Fast websites and migrations**
-  Landing pages, business websites, and WordPress-to-Next.js migrations built for performance, SEO, and maintainability.
+- **MVPs, launch sites, and migrations**  
+  Focused first versions, fast public pages, website-to-app upgrades, and WordPress or legacy migrations built for performance, SEO, and maintainability.
 
 ---
 
 ## How I work
 
-I like small loops, direct communication, and shipping things that people can actually use.
+I like small loops, direct communication, and software that reaches real users quickly.
 
-Clients work directly with me, the person designing, building, and shipping the system. No account-manager layer, no junior handoff, no bloated agency process.
+Clients work directly with me, the person mapping the workflow, designing the system, building the application, and shipping it to production. No account-manager layer, no junior handoff, no bloated agency process.
 
 AI is part of my workflow, but not the strategy. The important decisions still need taste, product judgment, technical experience, and a clear understanding of the business problem.
 
@@ -42,7 +42,11 @@ AI is part of my workflow, but not the strategy. The important decisions still n
 
 [webvise](https://webvise.io) is my senior-led AI-native software studio.
 
-We build custom workflow systems, internal tools, AI automation, MVPs, and production-ready web applications for businesses that need useful software without traditional agency overhead.
+I build custom software and AI workflows for businesses that need useful systems without traditional agency overhead. Services are organized around three paths:
+
+- **Launch**: landing pages, MVPs, website workflow layers, and legacy migrations.
+- **Operate**: internal tools, dashboards, portals, booking systems, and business apps.
+- **Automate**: AI consulting, company brain systems, workflow automation, and AI agents with review gates.
 
 ---
 
