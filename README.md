@@ -1,7 +1,7 @@
 # Sebastian Kehle
 
-Senior Product Engineer and Creative Developer based near Berlin.  
-Founder of [webvise.io](https://webvise.io) and AI Engineer at luca.
+Creative Developer based near Berlin.  
+Founder of [webvise.io](https://webvise.io) and Software Engineer at luca.
 
 I work at the intersection of design, full-stack development, and applied AI. My background started in visual communication and agency work, moved through startup leadership and product building, and now focuses on production AI engineering, custom workflow software, and web applications people use in real operations.
 
