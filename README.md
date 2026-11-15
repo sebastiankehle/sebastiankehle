@@ -59,5 +59,5 @@ Services are organized around three paths:
 
 - Website: [sebastiankehle.com](https://sebastiankehle.com)
 - Studio: [webvise.io](https://webvise.io)
-- Free tools: [webvise.io/en/tools](https://webvise.io/en/tools)
+- Free tools: [webvise.io/tools](https://webvise.io/tools)
 - GitHub: [github.com/sebastiankehle](https://github.com/sebastiankehle)
