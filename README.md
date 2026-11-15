@@ -5,7 +5,7 @@ Founder of [webvise.io](https://webvise.io) and Software Engineer at luca.
 
 I work at the intersection of design, full-stack development, and applied AI. My background started in visual communication and agency work, moved through startup leadership and product building, and now focuses on production AI engineering, custom workflow software, and web applications people use in real operations.
 
-At webvise I design and build custom software directly with clients: internal tools, dashboards, portals, booking systems, MVPs, website workflow layers, AI-assisted workflows, and production-ready business applications.
+At webvise I design and build websites, software, and AI automation directly with clients: launch sites, MVPs, internal tools, dashboards, portals, booking systems, AI assistants, and workflow automation.
 
 ---
 
@@ -17,6 +17,9 @@ At webvise I design and build custom software directly with clients: internal to
 - **AI workflows with review gates**  
   Practical AI systems for document processing, lead research, support triage, reporting, content operations, company knowledge, and internal handoffs.
 
+- **AI chatbots and phone assistants**  
+  Assistants for websites, phone lines, support, and internal questions. They answer from a company's own content, name their source, and hand requests to the team.
+
 - **Company brain and memory systems**  
   Knowledge systems that make documents, decisions, project context, and operating rules reusable for teams and AI agents.
 
@@ -24,7 +27,7 @@ At webvise I design and build custom software directly with clients: internal to
   Production-ready apps with authentication, roles, databases, APIs, integrations, monitoring, deployment, and handoff.
 
 - **MVPs, launch sites, and migrations**  
-  Focused first versions, fast public pages, website-to-app upgrades, and WordPress or legacy migrations built for performance, SEO, and maintainability.
+  Focused first versions, fast public pages, website-to-app upgrades, and WordPress or legacy migrations, built for performance and maintainability. Search engines can rank the pages and AI assistants can cite them.
 
 ---
 
@@ -40,13 +43,15 @@ AI is part of my workflow, but not the strategy. The important decisions still n
 
 ## webvise
 
-[webvise](https://webvise.io) is my software studio.
+[webvise](https://webvise.io) is my design-first studio for custom software and AI automation.
 
-I build custom software and AI workflows for businesses that need useful systems without traditional agency overhead. Services are organized around three paths:
+I build websites, software, and AI automation for companies that want more enquiries and less manual work, without traditional agency overhead. webvise has delivered 25+ projects, live in three weeks on average, and is an OpenAI Select Partner.
 
-- **Launch**: landing pages, MVPs, website workflow layers, and legacy migrations.
-- **Operate**: internal tools, dashboards, portals, booking systems, and business apps.
-- **Automate**: AI consulting, company brain systems, workflow automation, and AI agents with review gates.
+Services are organized around three paths:
+
+- **Launch**: landing pages, SEO and GEO, MVPs, website workflow layers, and legacy migrations.
+- **Operate**: internal tools, dashboards, portals, booking systems, business apps, and coaching for teams that build on their own software.
+- **Automate**: AI consulting, chatbots and phone assistants, company brain systems, workflow automation, and AI agents with review gates.
 
 ---
 
@@ -54,4 +59,5 @@ I build custom software and AI workflows for businesses that need useful systems
 
 - Website: [sebastiankehle.com](https://sebastiankehle.com)
 - Studio: [webvise.io](https://webvise.io)
+- Free tools: [webvise.io/en/tools](https://webvise.io/en/tools)
 - GitHub: [github.com/sebastiankehle](https://github.com/sebastiankehle)
