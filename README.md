@@ -61,3 +61,4 @@ Services are organized around three paths:
 - Studio: [webvise.io](https://webvise.io)
 - Free tools: [webvise.io/tools](https://webvise.io/tools)
 - GitHub: [github.com/sebastiankehle](https://github.com/sebastiankehle)
+- Instagram: [@webvise.io](https://www.instagram.com/webvise.io)
