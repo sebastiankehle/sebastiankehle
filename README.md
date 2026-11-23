@@ -60,5 +60,6 @@ Services are organized around three paths:
 - Website: [sebastiankehle.com](https://sebastiankehle.com)
 - Studio: [webvise.io](https://webvise.io)
 - Free tools: [webvise.io/tools](https://webvise.io/tools)
-- GitHub: [github.com/sebastiankehle](https://github.com/sebastiankehle)
+- LinkedIn: [linkedin.com/in/sebastiankehle](https://www.linkedin.com/in/sebastiankehle)
+- X: [@sebastiankehle](https://x.com/sebastiankehle)
 - Instagram: [@webvise.io](https://www.instagram.com/webvise.io)
